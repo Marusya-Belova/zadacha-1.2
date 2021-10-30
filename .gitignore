@@ -4,3 +4,7 @@ tmp/
 *_old
 #будут игнорироваться файлы заканчивающиеся суффиксами _backup
 *_backup
+#проигнорировать Thumbs.db
+Thumbs.db
+#проигнорировать .DS_Store
+.DS_Store
